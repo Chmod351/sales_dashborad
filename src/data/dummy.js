@@ -1,6 +1,5 @@
 import React from 'react';
 import {
-  AiOutlineCalendar,
   AiOutlineShoppingCart,
   AiOutlineBarChart,
 } from 'react-icons/ai';
